@@ -1,0 +1,309 @@
+[
+  {
+    "category": "Code Readability & Formatting",
+    "plugins": [
+      {
+        "name": "Better Comments",
+        "author": "Aaron Bond",
+        "url": "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments",
+        "thumb": "https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Improve your code readability with color-coded comments."
+      },
+      {
+        "name": "Bracket Pair Color DLW",
+        "author": "BracketPairColorDLW",
+        "url": "https://marketplace.visualstudio.com/items?itemName=BracketPairColorDLW.bracket-pair-color-dlw",
+        "thumb": "https://bracketpaircolordlw.gallerycdn.vsassets.io/extensions/bracketpaircolordlw/bracket-pair-color-dlw/0.0.6/1655846246331/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Colorize matching brackets for better readability."
+      },
+      {
+        "name": "Prettier - Code formatter",
+        "author": "Esben Petersen",
+        "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
+        "thumb": "https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/11.0.0/1723648421534/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Opinionated code formatter for VS Code."
+      },
+      {
+        "name": "Headwind",
+        "author": "Ryan Heybourn",
+        "url": "https://marketplace.visualstudio.com/items?itemName=heybourn.headwind",
+        "thumb": "https://heybourn.gallerycdn.vsassets.io/extensions/heybourn/headwind/1.7.0/1595154492943/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Sort and organize Tailwind CSS classes automatically."
+      }
+    ]
+  },
+  {
+    "category": "Web Development",
+    "plugins": [
+      {
+        "name": "Tailwind CSS IntelliSense",
+        "author": "Bradlc",
+        "url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss",
+        "thumb": "https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.14.6/1739883185987/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "IntelliSense support for Tailwind CSS."
+      },
+      {
+        "name": "HTML CSS Support",
+        "author": "Ecmel",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css",
+        "thumb": "https://ecmel.gallerycdn.vsassets.io/extensions/ecmel/vscode-html-css/2.0.13/1737702889132/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "CSS IntelliSense for HTML files."
+      },
+      {
+        "name": "Auto Rename Tag",
+        "author": "Formulahendry",
+        "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag",
+        "thumb": "https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Automatically rename paired HTML/XML tags."
+      },
+      {
+        "name": "CSS Peek",
+        "author": "Pranay Prakash",
+        "url": "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek",
+        "thumb": "https://pranaygp.gallerycdn.vsassets.io/extensions/pranaygp/vscode-css-peek/4.4.1/1689036849877/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Peek and jump to CSS definitions from HTML."
+      },
+      {
+        "name": "colorize",
+        "author": "kamikillerto",
+        "url": "https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize",
+        "thumb": "https://kamikillerto.gallerycdn.vsassets.io/extensions/kamikillerto/vscode-colorize/0.16.0/1734516430993/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Visualize css colors in your style file."
+      }
+    ]
+  },
+  {
+    "category": "JavaScript & React",
+    "plugins": [
+      {
+        "name": "Simple React Snippets",
+        "author": "Burke Holland",
+        "url": "https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets",
+        "thumb": "https://burkeholland.gallerycdn.vsassets.io/extensions/burkeholland/simple-react-snippets/1.2.8/1712588315749/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Handy React snippets for VS Code."
+      },
+      {
+        "name": "ESLint",
+        "author": "Microsoft",
+        "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+        "thumb": "https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/3.0.13/1723549114106/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Integrates ESLint JavaScript linter into VS Code."
+      },
+      {
+        "name": "Jest Runner",
+        "author": "Firsttris",
+        "url": "https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner",
+        "thumb": "https://firsttris.gallerycdn.vsassets.io/extensions/firsttris/vscode-jest-runner/0.4.74/1728670339809/Microsoft.VisualStudio.Services.Icons.Default",
+        "descriptiohn": "Run Jest tests directly from VS Code."
+      },
+      {
+        "name": "JavaScript (ES6) Code Snippets",
+        "author": "charalampos karypidis",
+        "url": "https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets",
+        "thumb": "https://xabikos.gallerycdn.vsassets.io/extensions/xabikos/javascriptsnippets/1.8.0/1587489699375/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Code snippets for ES6 JavaScript development."
+      },
+      {
+        "name": "Quokka.js",
+        "author": "Wallaby.js",
+        "url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode",
+        "thumb": "https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/quokka-vscode/1.0.709/1740117201356/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Live scratchpad for JavaScript and TypeScript."
+      }
+    ]
+  },
+  {
+    "category": "Productivity & Utilities",
+    "plugins": [
+      {
+        "name": "Turbo Console Log",
+        "author": "ChakrounAnas",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log",
+        "thumb": "https://chakrounanas.gallerycdn.vsassets.io/extensions/chakrounanas/turbo-console-log/2.12.2/1740013825876/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Quickly add console.log statements to your code."
+      },
+      {
+        "name": "Path IntelliSense",
+        "author": "Christian Kohler",
+        "url": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense",
+        "thumb": "https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/path-intellisense/2.10.0/1732919213601/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Autocomplete file paths in VS Code."
+      },
+      {
+        "name": "Paste JSON as Code",
+        "author": "Quicktype",
+        "url": "https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype",
+        "thumb": "https://quicktype.gallerycdn.vsassets.io/extensions/quicktype/quicktype/23.0.170/1717170302576/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Convert JSON to strong-typed code instantly. convert JSON to zod Schema"
+      },
+      {
+        "name": "npm Intellisense",
+        "author": "Christian Kohler",
+        "url": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense",
+        "thumb": "https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/npm-intellisense/1.4.5/1696702951497/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Autocomplete npm modules in your import statements."
+      },
+      {
+        "name": "Import Cost",
+        "author": "Wix",
+        "url": "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost",
+        "thumb": "https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Displays the import size of a package in your editor."
+      }
+    ]
+  },
+  {
+    "category": "Version Control",
+    "plugins": [
+      {
+        "name": "GitLens",
+        "author": "Eamodio",
+        "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens",
+        "thumb": "https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2025.2.2504/1740474515150/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Supercharge Git capabilities in VS Code."
+      },
+      {
+        "name": "GitHub Pull Request",
+        "author": "GitHub",
+        "url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github",
+        "thumb": "https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.105.2025022504/1740457097630/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Review and manage GitHub pull requests in VS Code."
+      }
+    ]
+  },
+  {
+    "category": "Documentation & Visualization",
+    "plugins": [
+      {
+        "name": "ASCII Tree Generator",
+        "author": "AprilandJan",
+        "url": "https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator",
+        "thumb": "https://aprilandjan.gallerycdn.vsassets.io/extensions/aprilandjan/ascii-tree-generator/2.0.0/1734858633142/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Generate ASCII tree diagrams easily within VS Code."
+      },
+      {
+        "name": "Draw.io Integration",
+        "author": "Hediet",
+        "url": "https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio",
+        "thumb": "https://hediet.gallerycdn.vsassets.io/extensions/hediet/vscode-drawio/1.9.250219012/1739990548010/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Embed draw.io diagrams in VS Code."
+      },
+      {
+        "name": "Markdown Auto Open Preview",
+        "author": "HNW",
+        "url": "https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview",
+        "thumb": "https://cdn.vsassets.io/v/M252_20250218.9/_content/Header/default_icon_128.png",
+        "description": "Auto-open markdown preview on file open."
+      },
+      {
+        "name": "Mintlify Doc Writer",
+        "author": "Mintlify",
+        "url": "https://marketplace.visualstudio.com/items?itemName=Mintlify.docwriter",
+        "thumb": "https://mintlify.gallerycdn.vsassets.io/extensions/mintlify/document/2.2.2/1716293582777/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "AI-powered documentation writer for your code."
+      },
+      {
+        "name": "Image Preview",
+        "author": "Kiss Tamás",
+        "url": "https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview",
+        "thumb": "https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.32.2/1732997211540/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Preview images directly in your editor."
+      },
+      {
+        "name": "vscode-pdf",
+        "author": "tomoki1207",
+        "url": "https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf",
+        "thumb": "https://tomoki1207.gallerycdn.vsassets.io/extensions/tomoki1207/pdf/1.2.2/1736559861315/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Preview PDF files inside VS Code."
+      }
+    ]
+  },
+  {
+    "category": "Code Quality & Debugging",
+    "plugins": [
+      {
+        "name": "Error Lens",
+        "author": "Alexander",
+        "url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+        "thumb": "https://usernamehw.gallerycdn.vsassets.io/extensions/usernamehw/errorlens/3.23.0/1738242351089/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Improve error visibility in VS Code."
+      },
+      {
+        "name": "Code Spell Checker",
+        "author": "Street Side Software",
+        "url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker",
+        "thumb": "https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/4.0.39/1740477498054/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "A spell checker for source code."
+      }
+    ]
+  },
+  {
+    "category": "AI & IntelliSense",
+    "plugins": [
+      {
+        "name": "IntelliCode",
+        "author": "Microsoft",
+        "url": "https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode",
+        "thumb": "https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.3.2/1729726946695/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "AI-assisted IntelliSense for VS Code."
+      }
+    ]
+  },
+  {
+    "category": "Appearance & Themes",
+    "plugins": [
+      {
+        "name": "Material Icon Theme",
+        "author": "Philipp Kief",
+        "url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme",
+        "thumb": "https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/5.19.0/1737850874839/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "A beautiful icon theme for VS Code."
+      },
+      {
+        "name": "Peacock",
+        "author": "John Papa",
+        "url": "https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock",
+        "thumb": "https://johnpapa.gallerycdn.vsassets.io/extensions/johnpapa/vscode-peacock/4.2.2/1663810940966/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Subtly change the color of your VS Code workspace."
+      }
+    ]
+  },
+  {
+    "category": "Database & Backend",
+    "plugins": [
+      {
+        "name": "Prisma",
+        "author": "Prisma",
+        "url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma",
+        "thumb": "https://prisma.gallerycdn.vsassets.io/extensions/prisma/prisma/6.4.1/1740079082137/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Prisma schema support for VS Code."
+      },
+      {
+        "name": "Dotenv Official +Vault",
+        "author": "Dotenv",
+        "url": "https://marketplace.visualstudio.com/items?itemName=dotenv.dotenv-vscode",
+        "thumb": "https://dotenv.gallerycdn.vsassets.io/extensions/dotenv/dotenv-vscode/0.28.1/1699146869103/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Manage .env files securely with Dotenv Vault."
+      }
+    ]
+  },
+  {
+    "category": "DevOps & Containers",
+    "plugins": [
+      {
+        "name": "Docker",
+        "author": "Microsoft",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker",
+        "thumb": "https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.29.4/1737476530544/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Develop, debug, and deploy containerized applications."
+      },
+      {
+        "name": "Remote - SSH",
+        "author": "Microsoft",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh",
+        "thumb": "https://ms-vscode-remote.gallerycdn.vsassets.io/extensions/ms-vscode-remote/remote-ssh/0.118.2025022515/1740496726990/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Connect to and develop on remote machines over SSH."
+      }
+    ]
+  }
+]
