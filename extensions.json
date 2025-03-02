@@ -1,7 +1,7 @@
 [
   {
     "category": "Code Readability & Formatting",
-    "plugins": [
+    "extensions": [
       {
         "name": "Better Comments",
         "author": "Aaron Bond",
@@ -34,7 +34,7 @@
   },
   {
     "category": "Web Development",
-    "plugins": [
+    "extensions": [
       {
         "name": "Tailwind CSS IntelliSense",
         "author": "Bradlc",
@@ -57,6 +57,13 @@
         "description": "Automatically rename paired HTML/XML tags."
       },
       {
+        "name": "Multiple cursor case preserve",
+        "author": "Cardinal90",
+        "url": "https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve",
+        "thumb": "https://cardinal90.gallerycdn.vsassets.io/extensions/cardinal90/multi-cursor-case-preserve/1.0.5/1579704717839/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Preserves selection case (CAPS, Uppercase and lowercase) of multiple selection of text and auto change them with their respective case."
+      },
+      {
         "name": "CSS Peek",
         "author": "Pranay Prakash",
         "url": "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek",
@@ -74,7 +81,7 @@
   },
   {
     "category": "JavaScript & React",
-    "plugins": [
+    "extensions": [
       {
         "name": "Simple React Snippets",
         "author": "Burke Holland",
@@ -114,7 +121,7 @@
   },
   {
     "category": "Productivity & Utilities",
-    "plugins": [
+    "extensions": [
       {
         "name": "Turbo Console Log",
         "author": "ChakrounAnas",
@@ -149,12 +156,19 @@
         "url": "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost",
         "thumb": "https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default",
         "description": "Displays the import size of a package in your editor."
+      },
+      {
+        "name": "Bookmarks",
+        "author": "Alessandro Fragnani",
+        "url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks",
+        "thumb": "https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/bookmarks/13.5.0/1712140597509/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Bookmarks any position and easily find it in your project using bookmark"
       }
     ]
   },
   {
     "category": "Version Control",
-    "plugins": [
+    "extensions": [
       {
         "name": "GitLens",
         "author": "Eamodio",
@@ -173,7 +187,7 @@
   },
   {
     "category": "Documentation & Visualization",
-    "plugins": [
+    "extensions": [
       {
         "name": "ASCII Tree Generator",
         "author": "AprilandJan",
@@ -219,8 +233,8 @@
     ]
   },
   {
-    "category": "Code Quality & Debugging",
-    "plugins": [
+    "category": "Code Quality, Debugging & Visualization",
+    "extensions": [
       {
         "name": "Error Lens",
         "author": "Alexander",
@@ -234,12 +248,33 @@
         "url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker",
         "thumb": "https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/4.0.39/1740477498054/Microsoft.VisualStudio.Services.Icons.Default",
         "description": "A spell checker for source code."
+      },
+      {
+        "name": "Turbo Console Log",
+        "author": "ChakrounAnas",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log",
+        "thumb": "https://chakrounanas.gallerycdn.vsassets.io/extensions/chakrounanas/turbo-console-log/2.12.2/1740013825876/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Quickly add console.log statements to your code."
+      },
+      {
+        "name": "Console Ninja",
+        "author": "Wallaby.js",
+        "url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja",
+        "thumb": "https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/console-ninja/1.0.398/1740866845292/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Displays console.log output and runtime errors directly in your editor"
+      },
+      {
+        "name": "Prettify TypeScript: Better Type Previews",
+        "author": "Myles Murphy",
+        "url": "https://marketplace.visualstudio.com/items?itemName=MylesMurphy.prettify-ts",
+        "thumb": "https://mylesmurphy.gallerycdn.vsassets.io/extensions/mylesmurphy/prettify-ts/0.2.0/1740152818177/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "It provides better hover previews for TypeScript types."
       }
     ]
   },
   {
     "category": "AI & IntelliSense",
-    "plugins": [
+    "extensions": [
       {
         "name": "IntelliCode",
         "author": "Microsoft",
@@ -251,7 +286,7 @@
   },
   {
     "category": "Appearance & Themes",
-    "plugins": [
+    "extensions": [
       {
         "name": "Material Icon Theme",
         "author": "Philipp Kief",
@@ -270,7 +305,7 @@
   },
   {
     "category": "Database & Backend",
-    "plugins": [
+    "extensions": [
       {
         "name": "Prisma",
         "author": "Prisma",
@@ -289,7 +324,7 @@
   },
   {
     "category": "DevOps & Containers",
-    "plugins": [
+    "extensions": [
       {
         "name": "Docker",
         "author": "Microsoft",
@@ -303,6 +338,18 @@
         "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh",
         "thumb": "https://ms-vscode-remote.gallerycdn.vsassets.io/extensions/ms-vscode-remote/remote-ssh/0.118.2025022515/1740496726990/Microsoft.VisualStudio.Services.Icons.Default",
         "description": "Connect to and develop on remote machines over SSH."
+      }
+    ]
+  },
+  {
+    "category": "Fun",
+    "extensions": [
+      {
+        "name": "vscode-pets",
+        "author": "Anthony Shaw",
+        "url": "https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets",
+        "thumb": "https://tonybaloney.gallerycdn.vsassets.io/extensions/tonybaloney/vscode-pets/1.30.0/1738819194602/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Puts pets in your editor to keep you company whilst you code."
       }
     ]
   }
