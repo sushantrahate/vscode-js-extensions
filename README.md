@@ -1,6 +1,6 @@
 # Top VSCode JS Extensions
 
-VSCode extensions tailored For JavaScript developers.
+VSCode extensions tailored For JavaScript and Web developers.
 
 ## Live
 
