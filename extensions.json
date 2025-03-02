@@ -29,6 +29,13 @@
         "url": "https://marketplace.visualstudio.com/items?itemName=heybourn.headwind",
         "thumb": "https://heybourn.gallerycdn.vsassets.io/extensions/heybourn/headwind/1.7.0/1595154492943/Microsoft.VisualStudio.Services.Icons.Default",
         "description": "Sort and organize Tailwind CSS classes automatically."
+      },
+      {
+        "name": "indent-rainbow",
+        "author": "oderwat",
+        "url": "https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow",
+        "thumb": "https://oderwat.gallerycdn.vsassets.io/extensions/oderwat/indent-rainbow/8.3.1/1649543509070/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Makes indentation more readable"
       }
     ]
   },
@@ -76,6 +83,20 @@
         "url": "https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize",
         "thumb": "https://kamikillerto.gallerycdn.vsassets.io/extensions/kamikillerto/vscode-colorize/0.16.0/1734516430993/Microsoft.VisualStudio.Services.Icons.Default",
         "description": "Visualize css colors in your style file."
+      },
+      {
+        "name": "Random Everything",
+        "author": "helixquar",
+        "url": "https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything",
+        "thumb": "https://helixquar.gallerycdn.vsassets.io/extensions/helixquar/randomeverything/0.0.3/1499507940397/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Extension that generates random ints, floats, strings, words, etc."
+      },
+      {
+        "name": "Toggle Quotes",
+        "author": "BriteSnow",
+        "url": "https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes",
+        "thumb": "https://britesnow.gallerycdn.vsassets.io/extensions/britesnow/vscode-toggle-quotes/0.3.6/1641325296851/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "cmd ' (ctrl ' on win/linux) will cycle the first quote pair found."
       }
     ]
   },
@@ -163,6 +184,13 @@
         "url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks",
         "thumb": "https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/bookmarks/13.5.0/1712140597509/Microsoft.VisualStudio.Services.Icons.Default",
         "description": "Bookmarks any position and easily find it in your project using bookmark"
+      },
+      {
+        "name": "TODO Highlight",
+        "author": "Wayou Liu",
+        "url": "https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight",
+        "thumb": "https://wayou.gallerycdn.vsassets.io/extensions/wayou/vscode-todo-highlight/1.0.5/1635478170130/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Highlight TODO comments, FIXME comments, and @todo tags in your code."
       }
     ]
   },
