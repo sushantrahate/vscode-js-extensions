@@ -257,6 +257,13 @@
         "url": "https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf",
         "thumb": "https://tomoki1207.gallerycdn.vsassets.io/extensions/tomoki1207/pdf/1.2.2/1736559861315/Microsoft.VisualStudio.Services.Icons.Default",
         "description": "Preview PDF files inside VS Code."
+      },
+      {
+        "name": "Rainbow CSV",
+        "author": "mechatroner",
+        "url": "https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv",
+        "thumb": "https://mechatroner.gallerycdn.vsassets.io/extensions/mechatroner/rainbow-csv/3.17.0/1738990357073/Microsoft.VisualStudio.Services.Icons.Default",
+        "description": "Highlight columns in comma (.csv), tab (.tsv), semicolon and pipe - separated files in different colors."
       }
     ]
   },
